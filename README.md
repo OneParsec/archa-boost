@@ -1,2 +1,2 @@
 # archa-boost
-ArchLinux and Manjaro gaming optimizer.
+**ArchLinux and Manjaro gaming optimizer.**
