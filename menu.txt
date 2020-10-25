@@ -1,0 +1,9 @@
+[1] Linux Xanmod Kernel
+[2] Linux Zen Kernel
+[3] MangoHUD
+[4] Proprietary nVidia Video Driver
+[5] Open Source AMD Video Driver
+[6] Feral Gamemode
+[7] Proton-5.9-GE-8-ST
+[8] PortProton-3.4
+[9] Exit
