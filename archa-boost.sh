@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 if [[ "$EUID" -eq 0 ]]; then
-	echo "his script must be run as user"
+	echo "This script must be run as user"
 	sleep 2
 	exit
 fi
