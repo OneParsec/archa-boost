@@ -1,8 +1,7 @@
 # archa-boost
+**ArchLinux and Manjaro gaming optimizer.**
+
 <center>
-  **ArchLinux and Manjaro gaming optimizer.**
-
-
   <img src=https://img.shields.io/badge/platform-GNU%2FLinux-blue>
 </center>
 
