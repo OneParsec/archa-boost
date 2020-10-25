@@ -1,6 +1,7 @@
 # archa-boost
 **ArchLinux and Manjaro gaming optimizer.**
-**How to use**
+
+# How to use
 ```
 $ git clone https://github.com/OneParsec/archa-boost
 $ cd archa-boost
