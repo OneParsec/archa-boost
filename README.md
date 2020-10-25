@@ -1,9 +1,10 @@
 # archa-boost
-**ArchLinux and Manjaro gaming optimizer.**
+<center>
+  **ArchLinux and Manjaro gaming optimizer.**
 
 
-<center> <img src=https://img.shields.io/badge/platform-GNU%2FLinux-blue> </center>
-
+  <img src=https://img.shields.io/badge/platform-GNU%2FLinux-blue>
+</center>
 
 # How to use
 ```
