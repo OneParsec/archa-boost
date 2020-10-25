@@ -1,7 +1,8 @@
 # archa-boost
-**ArchLinux and Manjaro gaming optimizer.**
+
 
 <p align="center">
+ArchLinux and Manjaro gaming optimizer.
 <a href="https://github.com/OneParsec/archa-boost/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-0.1--alpha-blue" ></a>  
 </p>
 
