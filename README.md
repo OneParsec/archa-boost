@@ -2,7 +2,7 @@
 **ArchLinux and Manjaro gaming optimizer.**
 
 
-<center> <img src=https://img.shields.io/badge/platform-GNU%2FLinux-blue> <center>
+<center> <img src=https://img.shields.io/badge/platform-GNU%2FLinux-blue> </center>
 
 
 # How to use
