@@ -3,6 +3,7 @@
 
 <center>
   <img src=https://img.shields.io/badge/platform-GNU%2FLinux-blue>
+  <img src=https://img.shields.io/badge/version-v0.1--alpha-red>
 </center>
 
 # How to use
