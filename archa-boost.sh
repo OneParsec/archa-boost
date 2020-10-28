@@ -25,7 +25,8 @@ if [[ $option = 1 ]]; then
 	rm -r linux-xanmod
 	rm -r linux-xanmod-headers
 	mkinitcpio -p linux-xanmod
-	grub-mkconfig > /boot/grub/grub.cfg
+	sudo rm /boot/grub/grub.cfg 
+	grub-mkconfig -o /boot/grub/grub.cfg
 	echo ""
 	clear
 	echo "Linux Xanmod Kernel is successfuly installed."
@@ -36,7 +37,8 @@ elif [[ $option = 2 ]]; then
 	sleep 1
 	sudo pacman -Syu linux-zen linux-zen-headers
 	mkinitcpio -p linux-zen
-	grub-mkconfig > /boot/grub/grub.cfg
+	sudo rm /boot/grub/grub.cfg
+	grub-mkconfig -o /boot/grub/grub.cfg
 	echo ""
 	clear
 	echo "Linux Zen Kernel is successfuly installed."
